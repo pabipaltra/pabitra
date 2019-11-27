@@ -1,0 +1,6 @@
+print("Hello World")
+print("HI Pabitra")
+print(2*"\n")
+print ("Welcome to", end = '@') 
+print(2*"\n")
+print ("Guru99", end = '!')
